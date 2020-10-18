@@ -30,4 +30,3 @@ def test_guest_cant_see_product_in_basket_opened_from_main_page(browser):
     basket_page = BasketPage(page.browser, page.browser.current_url)
     basket_page.basket_should_contains_n_different_position()
     basket_page.should_be_text_about_empty_basket()
-
