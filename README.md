@@ -14,10 +14,10 @@
     1. ручные исследовательские тесты, автоматизированные end-to-end тесты, интеграционные тесты, юнит-тесты
     2. ```python def test_input_text(expected_result, actual_result):
          assert expected_result == actual_result, \
-        f"expected {expected_result}, got {actual_result}" ```
+        f"expected {expected_result}, got {actual_result}" 
     3. ```python def test_substring(full_string, substring):
         assert substring in full_string, \
-       f"expected '{substring}' to be substring of '{full_string}'" ```
+       f"expected '{substring}' to be substring of '{full_string}'" 
 
 # Модуль 4
 4. Применение паттерна Page Object Model.
