@@ -13,8 +13,8 @@
         1. Задание: добавление в корзину со страницы товара:
             1. перейди по [ссылке](http://selenium1py.pythonanywhere.com/ru/catalogue/the-shellcoders-handbook_209/?promo=newYear)
             2. Просмотреть код -> Sources
-                1. static/oscar -> js
-                    1. js/oscar -> [js](http://selenium1py.pythonanywhere.com/static/oscar/js/oscar/hack.358de0d3d185.js)
-                    2. let x = Math.floor(Math.random() * 1000) + 1; -> let x = 5;
-                    3. answer: 2.442963479759414.
+                1. ```static/oscar``` -> js
+                    1. ```js/oscar``` -> [js](http://selenium1py.pythonanywhere.com/static/oscar/js/oscar/hack.358de0d3d185.js)
+                    2. ```jslet x = Math.floor(Math.random() * 1000) + 1; -> let x = 5```;
+                    3. answer: ```2.442963479759414```.
             3. Ответ: ```http://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207/?promo=offer7```
