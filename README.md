@@ -27,7 +27,7 @@
 1. Атрибуты, которые влияют на отображение элемента
     1. ```html <h1 style="color: blue;"> Этот заголовок будет синим </h1>
         <p hidden> Этот атрибут скрывает элемент на странице, элемент не будет показываться </p>
-        <button disabled> Кнопка с атрибутом disabled будет заблокирована </button>```
+        <button disabled> Кнопка с атрибутом disabled будет заблокирована </button>
         ```css button {
                 background-color: #6c6; 
                 border: none;
@@ -42,7 +42,7 @@
                 :disabled {
                 opacity: 0.4;
                 cursor: not-allowed;
-                }```
+                }
 ## Модуль 1.3
 1. Задание: подберите тег
     1. input
