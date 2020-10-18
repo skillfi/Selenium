@@ -48,6 +48,11 @@
     1. input
 1. Задание
     1. get()
+
+## Модуль 1.6
+Рецензія
+[Уникальность селекторов](https://github.com/skillfi/Selenium/blob/main/uniqueness_of_selectors.py)
+
 # Модуль 2
 ## Модуль 2.1
 2. Задание на терминологию 1
@@ -58,7 +63,6 @@
 ## Модуль 2.4
 2. Задание: Про Exceptions
     1. NoSuchElementException
-
 
 # Модуль 3
 ## Модуль 3.1
